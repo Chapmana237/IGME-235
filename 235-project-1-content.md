@@ -31,6 +31,8 @@ With a limited suite of labeled, visible buttons, the player should be able to f
 It's surprising how many people confuse the axiom "buy low, sell high" into "buy high, sell low". Players will only be able to succeed if they clear this confusion and eliminate all doubt. More advanced strategy includes learning that the line is not actually contained by the vertical bounds that the graph would imply and is capable of going to drastic values. A player who understands this will be able to coordinate their spending to capitalize on these oppurtunities. Players who understand that they can press the "Buy" button when the value of *Stonks* becomes negative will be especially rewarded. These occasions can also save players who made many mistakes and lost too much money to buy *Stonks* at the average value.
 
 ## Screenshots
+![Prototype1](https://people.rit.edu/ajc7345/235/project1/media/Prototype1.png)
+![Prototype2](https://people.rit.edu/ajc7345/235/project1/media/Prototype1.png)
 
 ## Other
 This is a rip-off of a game called [*Dollol Simulator*](https://store.steampowered.com/app/806660/Dollal_Simulator_2018/)
