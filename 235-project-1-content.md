@@ -37,3 +37,4 @@ This is a rip-off of a game called [*Dollol Simulator*](https://store.steampower
 I was inspired to choose it because one of the example projects of a previous student was a slot machine, which made me think that a gambling joke game was a good concept for something within the scope of this class, and *Dollol Simulator* came to mind.
 
 ## About The Developer
+AJ Chapman is a second year Games & Media major at RIT. He is working hard to develop his skills in coding, Unity-based production, 3D-modeling with Maya, and web design.
