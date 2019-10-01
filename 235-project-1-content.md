@@ -7,7 +7,7 @@ While keeping carful watch over the day's *Stonk* prices, the player has to buy 
 Simulation, Gambling, Joke, Casual
 
 ## Platform
-"mobile-friendly"
+Desktop but might also be able to make it "mobile-friendly"
 
 ## Story
 The player is a trader of an abstract, fictional investment item called a *Stonk*, named for the popular "Stonks" meme. To define a *Stonk* would defeat the purpose of the joke, which is that they are abstract, meaningless, and operate on rules which are a gross oversimplification/perversion of actual stock trading.
@@ -32,7 +32,7 @@ It's surprising how many people confuse the axiom "buy low, sell high" into "buy
 
 ## Screenshots
 ![Prototype1](https://people.rit.edu/ajc7345/235/project1/media/Prototype1.png)
-![Prototype2](https://people.rit.edu/ajc7345/235/project1/media/Prototype1.png)
+![Prototype2](https://people.rit.edu/ajc7345/235/project1/media/Prototype2.png)
 
 ## Other
 This is a rip-off of a game called [*Dollol Simulator*](https://store.steampowered.com/app/806660/Dollal_Simulator_2018/)
