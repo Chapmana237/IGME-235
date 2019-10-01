@@ -13,8 +13,8 @@ Simulation, Gambling, Joke, Casual
 The player is a trader of an abstract, fictional investment item called a *Stonk*, named for the popular "Stonks" meme. To define a *Stonk* would defeat the purpose of the joke, which is that they are abstract, meaningless, and operate on rules which are a gross oversimplification/perversion of actual stock trading.
 
 ## Aesthetics
-..* Graphics - Simple and abstract. The only graphics are the graph, the red line that progresses across it, and clickable buttons with accompanying text.
-..* Sound - The main theme song from popular game show *The Price is Right* plays in the background (but it is toggleable through a button). Some actions in the game are accompanied by jaring, annoying sound effects, like a "ka-ching" noise whenever they click the "Sell" button.
+* **Graphics** - Simple and abstract. The only graphics are the graph, the red line that progresses across it, and clickable buttons with accompanying text.
+* **Sound** - The main theme song from popular game show *The Price is Right* plays in the background (but it is toggleable through a button). Some actions in the game are accompanied by jaring, annoying sound effects, like a "ka-ching" noise whenever they click the "Sell" button.
 
 ## Gameplay
 
@@ -29,3 +29,11 @@ With a limited suite of labeled, visible buttons, the player should be able to f
 
 ### Player Learning
 It's surprising how many people confuse the axiom "buy low, sell high" into "buy high, sell low". Players will only be able to succeed if they clear this confusion and eliminate all doubt. More advanced strategy includes learning that the line is not actually contained by the vertical bounds that the graph would imply and is capable of going to drastic values. A player who understands this will be able to coordinate their spending to capitalize on these oppurtunities. Players who understand that they can press the "Buy" button when the value of *Stonks* becomes negative will be especially rewarded. These occasions can also save players who made many mistakes and lost too much money to buy *Stonks* at the average value.
+
+## Screenshots
+
+## Other
+This is a rip-off of a game called [*Dollol Simulator*](https://store.steampowered.com/app/806660/Dollal_Simulator_2018/)
+I was inspired to choose it because one of the example projects of a previous student was a slot machine, which made me think that a gambling joke game was a good concept for something within the scope of this class, and *Dollol Simulator* came to mind.
+
+## About The Developer
